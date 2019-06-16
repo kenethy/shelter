@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="203d2931-f55c-41b2-bcba-9e104f5c2bb9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shelter_web/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/shelter_web/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +64,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shelter_dashboard/models.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
@@ -84,11 +85,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/shelter_web/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+            <state relative-caret-position="322">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
             </state>
           </provider>
         </entry>
@@ -108,7 +109,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/shelter_web/settings.py" />
         <option value="$PROJECT_DIR$/shelter_dashboard/admin.py" />
         <option value="$PROJECT_DIR$/shelter_dashboard/templates/shelter_dashboard/occurrence.html" />
         <option value="$PROJECT_DIR$/shelter_dashboard/templates/shelter_dashboard/dashboard.html" />
@@ -118,6 +118,7 @@
         <option value="$PROJECT_DIR$/shelter_dashboard/templates/shelter_dashboard/unburden.html" />
         <option value="$PROJECT_DIR$/shelter_dashboard/models.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/shelter_web/settings.py" />
       </list>
     </option>
   </component>
@@ -139,6 +140,11 @@
               <item name="Shelter" type="b2602c69:ProjectViewProjectNode" />
               <item name="Shelter" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Shelter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shelter" type="462c0819:PsiDirectoryNode" />
+              <item name="shelter_web" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -148,6 +154,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -217,13 +224,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/shelter_web/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/shelter_web/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="237">
@@ -286,6 +286,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shelter_web/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
     </entry>
