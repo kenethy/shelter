@@ -1,6 +1,6 @@
 # Shelter
 
-Oferecer um _espaço seguro e informativo_ para mulheres visando produzir _indicadores_ que auxiliem o RH na tomada de decisões que _transformem a cultura da organização_.
+Oferecer um <u>espaço seguro e informativo</u> para mulheres visando produzir <u>indicadores</u> que auxiliem o RH na tomada de decisões que <u>transformem a cultura da organização</u>.
 
 <b>Team</b><br>
 Ariany Ferreira<br>
