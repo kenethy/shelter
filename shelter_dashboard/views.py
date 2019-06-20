@@ -14,3 +14,16 @@ def unburden(request):
     data = {}
     data['unburden'] = Unburden.objects.all()
     return render(request, 'shelter_dashboard/unburden.html', data)
+
+def base(request):
+    data = {}
+    return render(request, 'shelter_dashboard/base.html', data)
+
+def template(request):
+    data = {}
+    return render(request, 'shelter_dashboard/base-temp2.html', data)
+
+def index(request):
+    data = {}
+    return render(request,'shelter_dashboard/rotas/index.html', data)
+

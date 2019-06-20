@@ -15,11 +15,14 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from shelter_dashboard.views import dashboard, home, unburden
+from shelter_dashboard.views import dashboard, home, unburden, base,template, index
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', home, name='home'),
     path('dashboard/', dashboard, name='dashboard'),
     path('unburden/', unburden, name='unburden'),
+    path('base/',base, name='base'),
+    path('basico/',template, name='template'),
+    path('basico/index.html',index, name='index'),
 ]
